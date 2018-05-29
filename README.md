@@ -1,7 +1,7 @@
 
 Usando React com Sharepoint - Estudo inicial 
 
-Pacotes:
+Pacotes: 
 
 -- Consumir API
 
