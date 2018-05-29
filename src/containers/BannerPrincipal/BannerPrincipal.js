@@ -5,7 +5,7 @@ import Imagens from './Imagens'
 import SearchEngine from '../../assets/js/SearchEngine'
 import Spinner from '../../UI/Spinner'
 import {connect} from 'react-redux';
-import {bannerBradesco} from '../../assets/js/banner'
+ 
 import {MyContext} from '../../hoc/Context'
 import $ from 'jquery';
  
