@@ -1,0 +1,21 @@
+{
+    "presets": [
+        [
+            "env",{
+                "targets" :{
+                    "browsers" :[
+                        "> 1%",
+                        "last 2 version"
+                     ]
+                }
+            }],
+        "es2015",
+        "react",
+        "stage-2"
+         
+    ],
+    "plugins": [
+        "syntax-dynamic-import"
+    ]
+}
+
